@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
-
+<br />
+ 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer411" />
+<img align="left" alt="Sameer's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer411" />
 
 </details>
 
