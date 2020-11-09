@@ -31,5 +31,11 @@
 
 </details>
 
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Sameer411's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer411" />
+
 [website]: https://sameerrathod99.wordpress.com/
 [linkedin]: https://www.linkedin.com/in/sameerrathod1999/
