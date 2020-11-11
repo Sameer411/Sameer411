@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on ...Web and Android Application Development Projects
 - 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ... Machine Learning, Deep Learning
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... Computer Coding 
 - 📫 How to reach me: ...(sameerrathod1999@gmail.com)
 - 😄 Pronouns: ...He/ Him
 - ⚡ Fun fact: ... Always Ends With ;
