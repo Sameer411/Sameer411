@@ -1,6 +1,6 @@
 ### Hi there, I'm Sameer 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sameer411" alt="Sameer411" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranaV-Shimpi" alt="PranaV-Shimpi" /> </p>
 
 - 🔭 I’m currently working on ...Web and Android Application Development Projects
 - 🌱 I’m currently learning ... Machine Learning
