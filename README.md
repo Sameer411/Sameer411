@@ -1,6 +1,7 @@
 ### Hi there, I'm Sameer 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sameer411" alt="Sameer411" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sameer411" alt="Sameer411" /> 
+<p align="center"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sameer411?style=social">
 
 - 🔭 I’m currently working on ...Web and Android Application Development Projects
 - 🌱 I’m currently learning ... Machine Learning
