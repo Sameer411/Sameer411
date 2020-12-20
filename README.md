@@ -1,4 +1,4 @@
-### Hola, I'm Sameer 👋
+### Hola, I'm Sameer Rathod
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sameer411" alt="Sameer411" /> 
 <p align="center"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sameer411?style=social">
@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on ... Machine Learning, Deep Learning
 - 💬 Ask me about ... Computer Coding 
 - 📫 How to reach me: ...(sameerrathod1999@gmail.com)
-- 😄 Pronouns: ...He/ Him
-- ⚡ Fun fact: ... Always Ends With ;
 
 ### Connent With Me 
 
