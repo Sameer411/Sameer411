@@ -1,7 +1,7 @@
 ### Hola, I'm Sameer Rathod
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=IamVaibhavsar" alt="IamVaibhavsar" /> 
-<p align="center"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/IamVaibhavsar?style=social">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sameer411" alt="Sameer411" /> 
+<p align="center"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sameer411?style=social">
 
 - 🔭 I’m currently working on ...Web and Android Application Development Projects
 - 🌱 I’m currently learning ... Machine Learning
@@ -23,14 +23,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="IamVaibhavsar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IamVaibhavsar&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sameer411's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sameer411&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="IamVaibhavsar's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamVaibhavsar" />
+<img align="left" alt="Sameer411's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer411" />
 </details>
 
 [website]: https://sameerrathod99.wordpress.com/
