@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sameer Rathod</h1>
-<h3 align="center">Software Engineer </h3>
+<h3 align="center">Computer Engineer </h3>
 <p align="center">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/smilegupta)
@@ -25,13 +25,13 @@
   
 ### Connent With Me on
   
- [LinkedIn](https://www.linkedin.com/in/sameerrathod1999/)
+[LinkedIn](https://www.linkedin.com/in/sameerrathod1999/)
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
- [Blog](https://sameerrathod99.wordpress.com/) 
+[Blog](https://sameerrathod99.wordpress.com/) 
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
   
-  [portfolio](https://sameerrathod99.wordpress.com/)
+[portfolio](https://sameerrathod99.wordpress.com/)
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
   
 <br />
