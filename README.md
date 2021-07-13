@@ -37,13 +37,12 @@
 ---
 
 
-  ##  My Github Status 👩🏻‍💻
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer411" />
-
-
-  ## Most Used Languages
-
-<img align="left" alt="Sameer411's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer411" />
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <details>
+    <img alt="Sameer411's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sameer411&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img alt="Sameer411's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer411&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  </details>
 
 [website]: https://sameerrathod99.wordpress.com/
 [website2]: https://sameerrathod99.wordpress.com/
