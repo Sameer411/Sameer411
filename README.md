@@ -37,14 +37,15 @@
 <br />
 
 ---
+  
 
+## My Github Stats 👩🏻‍💻
 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <details>
-    <img alt="Sameer411's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sameer411&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-    <img alt="Sameer411's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer411&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-  </details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sameer411&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&&locale=en&layout=compact" alt="Sameer411"/></p?
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sameer411&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&locale=en&layout=compact" alt="Sameer411"  width = 410 /></p>
+
+<br />
 
 [website]: https://sameerrathod99.wordpress.com/
 [website2]: https://sameerrathod99.wordpress.com/
