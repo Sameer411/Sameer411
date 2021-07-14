@@ -23,19 +23,42 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
   
   
-### Connent With Me on
+### My Blog & Portfolio
   
-[LinkedIn Profile](https://www.linkedin.com/in/sameerrathod1999/)
+<!-- [LinkedIn Profile](https://www.linkedin.com/in/sameerrathod1999/)
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+ -->
 [Blog on AI, ML, & DL](https://sameerrathod99.wordpress.com/) 
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
   
 [Portfolio](https://sameerrathod99.wordpress.com/)
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
+
   
 <br />
 
+<center>
+ <h3>Connect with me!🧨</h3>
+<!--     <a href="https://discord.gg/lazyCodes7">
+      <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    </a> -->
+<!--     <a href="https://twitter.com/HSrishab">
+      <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    </a> -->
+    <a href="https://www.linkedin.com/in/sameerrathod1999/">
+      <img align="left" alt=LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<!--     </a>
+    <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+      <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+    </a>
+    <a href="https://www.reddit.com/user/geekyabhi/">
+      <img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+    </a> -->
+</center>  
+  
+
+<br />
+                                                                                                                                          
 ---
   
 
@@ -50,5 +73,5 @@
 <br />
 
 [website]: https://sameerrathod99.wordpress.com/
-[website2]: https://sameerrathod99.wordpress.com/
+[website2]: https://sameer411.github.io/
 [linkedin]: https://www.linkedin.com/in/sameerrathod1999/
