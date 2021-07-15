@@ -31,10 +31,10 @@
 [Blog on AI, ML, & DL](https://sameerrathod99.wordpress.com/) 
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[Blog on Big Data and It's Security](https://sameerrathod99.wordpress.com/) 
+[Blog on Big Data and It's Security](https://sameerathod.wordpress.com) 
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website3]  
   
-[Portfolio](https://sameerrathod99.wordpress.com/)
+[Portfolio](https://sameer411.github.io/)
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
 
   
