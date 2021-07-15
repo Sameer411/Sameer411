@@ -30,6 +30,9 @@
  -->
 [Blog on AI, ML, & DL](https://sameerrathod99.wordpress.com/) 
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[Blog on Big Data and It's Security](https://sameerrathod99.wordpress.com/) 
+[<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website3]  
   
 [Portfolio](https://sameerrathod99.wordpress.com/)
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
@@ -75,3 +78,4 @@
 [website]: https://sameerrathod99.wordpress.com/
 [website2]: https://sameer411.github.io/
 [linkedin]: https://www.linkedin.com/in/sameerrathod1999/
+[website3]: https://sameerathod.wordpress.com
