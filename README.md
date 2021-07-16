@@ -1,3 +1,4 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sameer Rathod</h1>
 <h3 align="center">Computer Engineer </h3>
 <p align="center">
@@ -7,10 +8,20 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sameer411" alt="Sameer411" /> 
 <p align="center"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sameer411?style=social">
+  <br />
+  <br />
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 - 🔭 I’m currently working on ...Full Stack Web Development, Machine Learning, & Deep Learning Projects. 
+  
 - 🌱 I’m currently learning ... Framework Development like React js, Angular. 
+  
 - 📫 How to reach me: ...(sameerrathod1999@gmail.com)
+
+<br />
+<br />
+<br />
 
 ## My skills 🚀
   
