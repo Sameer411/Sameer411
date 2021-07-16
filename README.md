@@ -85,7 +85,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sameer411&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&locale=en&layout=compact" alt="Sameer411"  width = 410 /></p>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IamVaibhavsar&theme=radical&hide_border=true&bg_color=0D1117&&locale=en" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer411&theme=radical&hide_border=true&bg_color=0D1117&&locale=en" />
 
 <br />
 
