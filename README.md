@@ -28,11 +28,12 @@
 <!-- [LinkedIn Profile](https://www.linkedin.com/in/sameerrathod1999/)
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  -->
-[Blog on AI, ML, & DL](https://sameerrathod99.wordpress.com/) 
-[<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [Blog on Info.security in Big data: Privacy and Data Mining](https://sameerathod.wordpress.com) 
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website3]  
+  
+[Blog on AI, ML, & DL](https://sameerrathod99.wordpress.com/) 
+[<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
   
 [Portfolio](https://sameer411.github.io/)
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
