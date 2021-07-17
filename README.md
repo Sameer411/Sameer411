@@ -58,6 +58,8 @@
  <h3>Connect with me!🧨</h3>
     <a href="https://www.linkedin.com/in/sameerrathod1999/">
       <img align="left" alt=LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <a href="https://www.github.com/Sameer411/">
+      <img align="left" alt=GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 
 </center>  
   
