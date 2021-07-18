@@ -53,16 +53,17 @@
 
   
 <br />
+ 
 
-<center>
- <h3>Connect with me!🧨</h3>
-    <a href="https://www.linkedin.com/in/sameerrathod1999/">
-      <img align="left" alt=LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    <a href="https://www.github.com/Sameer411/">
-      <img align="left" alt=GitHub" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-
-</center>  
   
+<br />
+
+  
+## :mailbox: How to reach me :
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:sameerrathod1999@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/sameerrathod1999/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://github.com/Sameer411)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://instagram.com/sameer_rathod_3895)
 
 <br />
                                                                                                                                           
