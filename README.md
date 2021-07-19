@@ -57,7 +57,7 @@
 
 
   
-## :mailbox: How to reach me :
+## :mailbox: Get in Touch :
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:sameerrathod1999@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/sameerrathod1999/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png"/>](https://github.com/Sameer411)
