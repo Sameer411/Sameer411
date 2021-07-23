@@ -78,6 +78,9 @@
 
 <br />
 
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sameer411&theme=discord&row=1&no-frame=true" /></a></p>
+
 [website]: https://sameerrathod99.wordpress.com/
 [website2]: https://sameer411.github.io/
 [linkedin]: https://www.linkedin.com/in/sameerrathod1999/
