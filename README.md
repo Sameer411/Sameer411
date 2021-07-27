@@ -50,7 +50,7 @@
 [Blog on AI, ML, & DL](https://sameerrathod99.wordpress.com/) 
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
   
-[Portfolio](https://sameer411.github.io/)
+[Portfolio](https://sameer411-portfolio.netlify.app/)
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
 
   
