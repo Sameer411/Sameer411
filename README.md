@@ -80,7 +80,34 @@
 
 <br />
 
+<center>
+<a href="https://github.com/Sameer411/Sign-Language-to-Text-Conversion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer411&repo=Sign-Language-to-Text-Conversion&theme=ayu-mirage&layout=compact" />
+</a>
 
+<a href="https://github.com/Sameer411/Plagiarism-Detection-Software">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer411&repo=Plagiarism-Detection-Software&theme=ayu-mirage&layout=compact" />
+</a>
+  
+<a href="https://github.com/Sameer411/Pneumonia-Detection-Bertelsmann-Scholarship">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer411&repo=Pneumonia-Detection-Bertelsmann-Scholarship&theme=ayu-mirage&layout=compact" />
+</a>
+  
+<a href="https://github.com/Sameer411/Emojify-Bertelsmann-Scholrship-Program">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer411&repo=Emojify-Bertelsmann-Scholrship-Program&theme=ayu-mirage&layout=compact" />
+</a>  
+  
+<a href="https://github.com/Sameer411/Weather-Web-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer411&repo=Weather-Web-Project&theme=ayu-mirage&layout=compact" />
+</a>
+
+<a href="https://github.com/Sameer411/Foodies-restaurant-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sameer411&repo=Foodies-restaurant-Website&theme=ayu-mirage&layout=compact" />
+</a>
+  
+</center>
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
 [website]: https://sameerrathod99.wordpress.com/
