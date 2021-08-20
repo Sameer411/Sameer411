@@ -43,6 +43,8 @@
 <!-- [LinkedIn Profile](https://www.linkedin.com/in/sameerrathod1999/)
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  -->
+[My GitHub Activity Stats](https://gitstats.me/Sameer411) 
+[<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website3]
 
 [Blog on Info.security in Big data: Privacy and Data Mining](https://sameerathod.wordpress.com) 
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website3]  
