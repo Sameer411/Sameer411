@@ -6,7 +6,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/smilegupta)
 <br> <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sameer411" alt="Sameer411" /> 
+
 <p align="center"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sameer411?style=social">
   <br />
   <br />
@@ -116,3 +116,6 @@
 [website2]: https://sameer411.github.io/
 [linkedin]: https://www.linkedin.com/in/sameerrathod1999/
 [website3]: https://sameerathod.wordpress.com
+
+**Visitors Count- (Since Oct. 2021)**  
+![VisitorCount](https://profile-counter.glitch.me/{Sameer411}/count.svg)
