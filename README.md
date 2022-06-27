@@ -1,5 +1,5 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sameer Rathod</h1>
+<h1 align="center">Hi , I'm Sameer Rathod</h1>
 <h3 align="center">Computer Engineer </h3>
 <p align="center">
 
