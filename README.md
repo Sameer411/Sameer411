@@ -1,6 +1,5 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 <h1 align="center">Hi , I'm Sameer Rathod</h1>
-<h3 align="center">Computer Engineer </h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/smilegupta)
