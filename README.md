@@ -32,7 +32,7 @@ _____________|','   ///_/-------------/   |
 
 I am Sameer Rathod. I am a Software Developer from Bangalore, Silicon Valley & Tech capital of India and currently working as a Software Developer at Great Learning. I did my Computer Engineering from KKWIEER. I love to do Web Development and am always open to learning new technologies.
 
-## 💻 Projects
+## 💻 Projects 
 * [Automobile Website](https://github.com/Sameer411/Automobiles-Website)
 * [Spring Boot To Do Application](https://github.com/Sameer411/To-Do-Application)
 * [Spring Boot Online Electricity Payment](https://github.com/Sameer411/Online-Electricity-Payment-Project)
