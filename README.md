@@ -54,8 +54,16 @@ I am Sameer Rathod. I am a Software Developer from Bangalore, Silicon Valley & T
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/Angular-20232A?logo=angular&logoColor=61DAFB" />
 
+- 👨‍💻 **Senior Tech Lead**\
+📆 Nov'24 - moment\
+📍 **Sagility Health** - Bangalore, India
+
+<img align="right" src="https://img.shields.io/badge/Spring_Boot-20232A?logo=java&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/Angular-20232A?logo=angular&logoColor=61DAFB" />
+
 - 👨‍💻 **Software Engineer**\
-📆 Dec'22 - moment\
+📆 Dec'22 - Nov'24\
 📍 **Great Learning** - Bangalore, India
 
 <img align="right" src="https://img.shields.io/badge/.Net-20232A?logo=.net&logoColor=61DAFB" />
